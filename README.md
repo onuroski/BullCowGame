@@ -10,3 +10,5 @@ If your guess is not correct you will lose  a life.
 
 
 https://www.youtube.com/watch?v=ZBu9RDv8NuE
+
+[![Bull Cow Game Videosu](https://www.youtube.com/watch?v=ZBu9RDv8NuE/0.jpg)](https://www.youtube.com/watch?v=ZBu9RDv8NuE)
