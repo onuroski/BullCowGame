@@ -11,4 +11,4 @@ If your guess is not correct you will lose  a life.
 
 https://www.youtube.com/watch?v=ZBu9RDv8NuE
 
-[![Bull Cow Game Videosu](https://www.youtube.com/embed/ZBu9RDv8NuE)](https://www.youtube.com/embed/ZBu9RDv8NuE)
+[![Bull Cow Game Videosu](https://i9.ytimg.com/vi_webp/ZBu9RDv8NuE/mq1.webp?sqp=CKSi3aAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgZSghMA8=&rs=AOn4CLCRmo5rBVu2vZ3PU2zdB2tYltcv1A)](https://www.youtube.com/embed/ZBu9RDv8NuE)
